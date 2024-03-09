@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="submit">SUBMIT</string>
+    <string name="ex_example_com_myitem">Ex: example.com/myItem</string>
+    <string name="item_name">Item Name</string>
+    <string name="ex_5_99">Ex: 5.99</string>
+</resources>
